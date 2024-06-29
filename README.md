@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[[![Anurag's GitHub stats]([raphyygithubreadmestats-rxphyys-projects.vercel.app](https://raphyygithubreadmestats-rxphyys-projects.vercel.app/api?username=rxphyy))](https://github.com/anuraghazra/github-readme-stats)](https://raphyygithubreadmestats-rxphyys-projects.vercel.app/api?username=rxphyy)
-
-[VCOOL](raphyygithubreadmestats-rxphyys-projects.vercel.app)
+[![rxphyy's GitHub stats](https://raphyygithubreadmestats-rxphyys-projects.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
