@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![rxphyy's GitHub stats](https://raphyygithubreadmestats-rxphyys-projects.vercel.app/api?username=rxphyy&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![rxphyy's GitHub stats](https://raphyygithubreadmestats-rxphyys-projects.vercel.app/api?username=rxphyy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
